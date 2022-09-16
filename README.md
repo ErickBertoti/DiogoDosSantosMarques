@@ -1,6 +1,5 @@
 ### Olá Colega da Tecnologia! Eu Sou o Diogo Marques😊
 
-Ambicioso Pelo Aprendizado da Tecnologia, disposto a aprender e executar tudo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-marques-9a9a2120b/)
 
