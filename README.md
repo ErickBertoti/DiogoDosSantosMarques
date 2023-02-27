@@ -11,9 +11,9 @@
 
 ![Diogo Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoDosSantosMarques&show_icons=true&theme=dracula)
 
-🚀 Aprendendo React 🚀
+🚀 ### Atualmente Aprendendo React 🚀
 
-### Tecnologias do Meu Cotidiano 🖥️❤️
+### Tecnologias com mais Afinidade 🖥️❤️
 
 <div style="display: inline_block"> <br/>
 
@@ -24,7 +24,9 @@
 
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="postgresql" src="https://img.shields.io/badge/React-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <br>
   <br>
 
