@@ -11,7 +11,7 @@
 
 ![Diogo Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoDosSantosMarques&show_icons=true&theme=dracula)
 
-🚀 ### Atualmente Aprendendo React 🚀
+🚀 Atualmente Aprendendo React 🚀
 
 ### Tecnologias com mais Afinidade 🖥️❤️
 
