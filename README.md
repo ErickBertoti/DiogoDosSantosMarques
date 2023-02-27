@@ -5,7 +5,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joe_guinho/?hl=pt-br)
 
-[![Gmail](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://marques.gogosantos@gmail.com/?hl=pt-br)
+
 
 
 
